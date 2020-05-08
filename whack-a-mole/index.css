@@ -1,0 +1,17 @@
+.cell {
+    border: solid 1px black;
+    width: 198px;
+    height: 198px;
+}
+
+.mole {
+    background-image: url('img/crocodile.png');
+    background-size: 198px;
+}
+
+.grid {
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-wrap: wrap;
+}
